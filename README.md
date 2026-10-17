@@ -4,7 +4,7 @@
 
 This project is a personal portfolio website created using **HTML5** and **CSS3**. It showcases my background as an aspiring software developer, highlights my technical skills, and presents some of the projects I have completed. The website is designed to provide potential employers, collaborators, and members of the tech community with an overview of who I am and what I can build.
 
-The website follows modern web development practices by using semantic HTML, responsive CSS, and a clean, professional design
+The website follows modern web development practices by using semantic HTML, responsive CSS, and a clean, professional design.
 
 ---
 
